@@ -19,6 +19,8 @@ How to inference onnx mobile net model in LabVIEW using OpenVINO.
 
 ![](assets/snippet.png)
 
+Saved as LabVIEW 2020.
+
 How it works:
 
 ![image-20250701144744400](assets/image-20250701144744400.png)
